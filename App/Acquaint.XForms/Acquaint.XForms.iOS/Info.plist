@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.xamarin.acquaint-forms</string>
+	<string>com.milagan.appSwift</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.51</string>
 	<key>CFBundleVersion</key>
@@ -50,14 +50,16 @@
 	</dict>
 	<key>CFBundleIconFiles</key>
 	<array>
-		<string>Icon-60@2x</string>
-		<string>Icon@2x</string>
-		<string>Icon-Small-40@2x</string>
-		<string>Icon-Small@2x</string>
-		<string>Icon</string>
-		<string>Icon-Small</string>
+		<string>Icon@2x.png</string>
+		<string>Icon.png</string>
+		<string>Icon-60@2x.png</string>
+		<string>Icon-Small@2x.png</string>
+		<string>Icon-Small.png</string>
+		<string>Icon-Small-40@2x.png</string>
 	</array>
 	<key>Custom Property</key>
 	<false/>
+	<key>CFBundleDisplayName</key>
+	<string>Acquaint</string>
 </dict>
 </plist>

@@ -93,6 +93,7 @@
     </IpaPackageName>
     <MtouchI18n>other</MtouchI18n>
     <BuildIpa>true</BuildIpa>
+    <CodesignProvision>31156523-d465-4960-b034-f654b76a562e</CodesignProvision>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'AppStore|iPhoneSimulator'">
     <OutputPath>bin\AppStore</OutputPath>
